@@ -13,6 +13,8 @@
 
 2. This software is Ad free hence enjoy the Youtube Music without any disturbence.
 
+3. Now enjoy Youtube Music by Downloading music offline for Free.
+
 
 # New feature added
 
@@ -22,4 +24,6 @@
 
 3. Logo for the app updated.
 
-4. General bug FIX. 
+4. Downloading music for offline added.
+
+5. General bug FIX. 
